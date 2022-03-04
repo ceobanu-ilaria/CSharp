@@ -1,0 +1,41 @@
+D:\doishpede\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe.config
+D:\doishpede\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form1.resources
+D:\doishpede\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Properties.Resources.resources
+D:\doishpede\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.GenerateResource.Cache
+D:\doishpede\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe
+D:\doishpede\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.pdb
+D:\doishpede\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.exe
+D:\doishpede\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.pdb
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe.config
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.pdb
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form1.resources
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form2.resources
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Properties.Resources.resources
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.GenerateResource.cache
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.CoreCompileInputs.cache
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.exe
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.pdb
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csprojAssemblyReference.cache
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form1.resources
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form2.resources
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Properties.Resources.resources
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.GenerateResource.cache
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.CoreCompileInputs.cache
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.exe
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.pdb
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe.config
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe
+Z:\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.pdb
+C:\Users\Ilaria\Desktop\sisharpdadoishpea (2)\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csprojAssemblyReference.cache
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe.config
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.exe
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\bin\Debug\JocDePrecizie.pdb
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csprojAssemblyReference.cache
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form1.resources
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Form2.resources
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.Properties.Resources.resources
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.GenerateResource.cache
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.csproj.CoreCompileInputs.cache
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.exe
+C:\Users\Ilaria\Desktop\Space-Joc de precizie\sisharpdadoishpea\JocDePrecizie\JocDePrecizie\obj\Debug\JocDePrecizie.pdb
